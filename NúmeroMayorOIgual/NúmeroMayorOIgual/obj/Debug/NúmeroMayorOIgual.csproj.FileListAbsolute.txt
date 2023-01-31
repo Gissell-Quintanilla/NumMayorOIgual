@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\bin\Debug\NúmeroMayorOIgual.exe.config
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\bin\Debug\NúmeroMayorOIgual.exe
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\bin\Debug\NúmeroMayorOIgual.pdb
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.Properties.Resources.resources
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.exe
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.pdb
+C:\Users\HP\Desktop\NúmeroMayorOIgual\NúmeroMayorOIgual\obj\Debug\NúmeroMayorOIgual.Form1.resources
